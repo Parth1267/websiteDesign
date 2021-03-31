@@ -159,3 +159,11 @@ content: "";
 	height: 0.6rem!important;
 	margin-bottom: 25px!important;
 }
+
+.project-work{
+	margin: 100px 0;
+}
+.project-work h1{
+	font-size: 2rem;
+	text-align: center;
+}
